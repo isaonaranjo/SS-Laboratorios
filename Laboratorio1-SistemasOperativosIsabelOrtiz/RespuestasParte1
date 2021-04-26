@@ -1,0 +1,13 @@
+Preguntas y respuestas pt. 1
+
+Compile el primer programa y ejecútelo varias veces. Responda: ¿por qué aparecen números
+diferentes cada vez?
+
+• Proceda a compilar el segundo programa y ejecútelo una vez. ¿Por qué aparecen dos números
+distintos a pesar de que estamos ejecutando un único programa?
+
+• ¿Por qué el primer y el segundo números son iguales?
+
+• En la terminal, ejecute el comando top (que despliega el top de procesos en cuanto a consumo
+de CPU) y note cuál es el primer proceso en la lista (con identificador 1). ¿Para qué sirve este
+proceso?
